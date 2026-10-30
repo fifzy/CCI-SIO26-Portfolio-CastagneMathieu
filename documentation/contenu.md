@@ -15,7 +15,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de modification :** 30/10/2026 - M. Castagné
 
-**Version :** 0.3
+**Version :** 0.4
 
 **Sommaire :**
 
@@ -108,6 +108,18 @@ Titulaire d’un bac pro Accueil relation clients et usagers, j’ai passé cinq
 - BTS Services informatiques aux organisations (SIO), option Solutions d'infrastructure, systèmes et réseaux (SISR), CCI Campus Strasbourg, Strasbourg (2026 - 2028, en cours)
 - Titre professionnel Technicien d'assistance en informatique (TAI), AFPA, Créteil (juin 2024 - janvier 2025, obtenu)
 - Baccalauréat professionnel Accueil relation clients et usagers, Lycée des métiers Jean Monnet, Juvisy-sur-Orge (2018, mention Bien)
+
+### 3.2. Illustrations
+
+**Illustration 1 :**
+
+- Titre : Photo de Mathieu Castagné
+- Alt : Mathieu Castagné souriant, en tenue professionnelle
+
+**Illustration 2 :**
+
+- Titre : Frise chronologique du parcours
+- Alt : Frise chronologique du parcours scolaire, professionnel et associatif de Mathieu Castagné depuis 2018, détaillé dans le texte de la page
 
 ## 4. Projets
 
