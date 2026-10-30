@@ -13,9 +13,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de création :** 16/10/2026 - M. Castagné
 
-**Date de modification :** 16/10/2026 - M. Castagné
+**Date de modification :** 30/10/2026 - M. Castagné
 
-**Version :** 0.1
+**Version :** 0.2
 
 **Sommaire :**
 
@@ -61,7 +61,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Titre principal :** Mathieu Castagné - Portfolio
 
-**Présentation :** Je suis étudiant en BTS Services Informatiques aux Organisations (SIO), option Solutions d’Infrastructure, Systèmes et Réseaux (SISR), en alternance chez MAN Truck & Bus.
+**Présentation :** Je suis étudiant en BTS Services informatiques aux organisations (SIO), option solutions d’nfrastructure, systèmes et réseaux (SISR), en alternance chez MAN Truck & Bus.
 
 **Bouton principal :** Voir mes projets (lien vers la page Projets)
 
@@ -73,14 +73,38 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Alt :** Logo de Mathieu Castagné, un tigre-cerf en mouvement
 
-## 3. Projets
 
-## 4. Projet AP3
 
-## 5. Projet AP4
+## 3. Parcours
 
-## 6. Veille technologique
+### 3.1. Textes 
 
-## 7. Mentions légales
+**Titre principal :** Parcours
 
-## 8. Plan du site
+**Introduction :**
+
+Titulaire d’un bac pro Accueil relation clients et usagers, j’ai passé cinq ans à la réception d’un hôtel parisien, à accueillir, écouter et accompagner les clients au quotidien. Après une période de réflexion, j’ai choisi de me réorienter vers l’informatique, un domaine que je pratiquais déjà en autodidacte. Ma mission d’intérim chez MAN Truck & Bus, prévue pour deux mois, a été renouvelée trois fois, puis l’entreprise m’a accordé sa confiance en me proposant un contrat d’apprentissage pour poursuivre mes études. Au support informatique, je mets chaque jour à profit le sens de la relation client, l’empathie et la gestion du stress et des conflits acquis dans l’hôtellerie.
+
+**Expériences professionnelles :**
+
+- Apprenti technicien informatique, MAN Truck & Bus, Évry-Courcouronnes (depuis août 2026) 
+- Technicien support niveau 2, MAN Truck & Bus, Évry-Courcouronnes (août 2025 - juillet 2026)
+- Réceptionniste, hôtellerie, Paris 13e (2018 - 2023) 
+
+**Formations :**
+
+- BTS Services informatiques aux organisations (SIO), option Solutions d'infrastructure, systèmes et réseaux (SISR), CCI Campus Strasbourg, Strasbourg (2026 - 2028, en cours)
+- Titre professionnel Technicien d'assistance en informatique (TAI), AFPA, Créteil (juin 2024 - janvier 2025, obtenu)
+- Baccalauréat professionnel Accueil relation clients et usagers, Lycée des métiers Jean Monnet, Juvisy-sur-Orge (2018, mention Bien)
+
+## 4. Projets
+
+## 5. Projet AP3
+
+## 6. Projet AP4
+
+## 7. Veille technologique
+
+## 8. Mentions légales
+
+## 9. Plan du site
