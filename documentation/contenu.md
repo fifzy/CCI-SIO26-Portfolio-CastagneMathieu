@@ -15,7 +15,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de modification :** 30/10/2026 - M. Castagné
 
-**Version :** 0.2
+**Version :** 0.3
 
 **Sommaire :**
 
@@ -90,6 +90,18 @@ Titulaire d’un bac pro Accueil relation clients et usagers, j’ai passé cinq
 - Apprenti technicien informatique, MAN Truck & Bus, Évry-Courcouronnes (depuis août 2026) 
 - Technicien support niveau 2, MAN Truck & Bus, Évry-Courcouronnes (août 2025 - juillet 2026)
 - Réceptionniste, hôtellerie, Paris 13e (2018 - 2023) 
+
+- - **Engagement associatif :**
+  
+    - Cofondateur, secrétaire et membre du conseil d'administration, AnthroTales Events (ASBL), Belgique (depuis août 2024)
+  
+      Association qui organise chaque année une convention consacrée aux animaux anthropomorphiques, réunissant un public francophone et européen (plus de 200 participants lors de la première édition, 300 attendus pour la deuxième).
+  
+      - Supervision de 4 responsables d'équipe (médias, espace exposants, contenus éditoriaux et relations hôtelières), soit 23 bénévoles au total
+      - Négociation du contrat avec l'hôtel partenaire (environ 130 chambres), auprès de ses responsables événementiel et hébergement : tarif des nuitées, prestations incluses et location des salles
+      - Gestion des produits dérivés auprès des fabricants : cahier des charges, comparaison de devis selon plusieurs scénarios de quantités, et traitement des réclamations en cas de produits non conformes
+      - Organisation de l'espace exposants : appel à candidatures, sélection (12 exposants pour la première édition, 16 pour la deuxième), plan de salle et collecte des documents administratifs
+      - Co-présentation des cérémonies d'ouverture et de clôture devant 173 personnes (première édition), en binôme français-anglais, et préparation du support de présentation en anglais
 
 **Formations :**
 
