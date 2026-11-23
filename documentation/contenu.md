@@ -176,6 +176,20 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 ## 6. Projet AP4
 
 ## 7. Veille technologique
+### 7.1. Textes
+
+**Titre Principal :** Veille technologique
+
+**Problématique :** Quelles alternatives open source s’offrent aux entreprises pour remplacer VMware dans leurs infrastructures de virtualisation, après son rachat par Broadcom ?
+
+
+**Pourquoi ce sujet :** Utilisateur au quotidien d'alternatives aux géants du numérique, comme Linux à la place de Windows ou la suite Proton à la place de Google Workspace, je suis attentif à la protection et à la souveraineté de mes données. Beaucoup d'entreprises européennes dépendent d'éditeurs américains, soumis à des lois comme le CLOUD Act (2018). Le rachat de VMware par Broadcom, suivi de fortes hausses de prix, illustre ce risque de dépendance et pousse de nombreuses entreprises à chercher d'autres solutions. En tant que futur technicien systèmes et réseaux, je souhaite comparer et analyser les alternatives à VMware, pour savoir accompagner une entreprise dans sa migration.
+
+**Méthode de veille :** 
+
+**Synthèse :** 
+
+### 7.2. Illustrations
 
 ## 8. Mentions légales
 
