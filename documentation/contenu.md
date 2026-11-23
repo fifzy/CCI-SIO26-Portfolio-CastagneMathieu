@@ -161,6 +161,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Logo de Mathieu Castagné
 - Alt : Logo de Mathieu Castagné, un tigre-cerf, emblème du portfolio
+![Logo de Mathieu Castagné, un tigre-cerf, emblème du portfolio](medias/logo_djed.png)
 
 **Illustration 3 :**
 
@@ -194,6 +195,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Encart « Projet à venir » (AP3)
 - Alt : Projet AP3 à venir
+![Projet AP3 à venir](medias/encart_ap3.png)
 
 ## 6. Projet AP4
 
@@ -215,8 +217,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Illustration 1 :**
 
-- Titre : Encart « Projet à venir » (AP3)
-- Alt : Projet AP3 à venir
+- Titre : Encart « Projet à venir » (AP4)
+- Alt : Projet AP4 à venir
+![Projet AP4 à venir](medias/encart_ap4.png)
 
 ## 7. Veille technologique
 
