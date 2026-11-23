@@ -155,6 +155,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Capture d’écran du bot Telegram de veille technologique
 - Alt : Capture d’écran du bot Telegram Zazu’s Premium Watchguard montrant une synthèse de veille technologique, avec des actualités classées par thème
+![Capture d’écran du bot Telegram Zazu’s Premium Watchguard montrant une synthèse de veille technologique, avec des actualités classées par thème](medias/capture_bot_veille.jpg)
 
 **Illustration 2 :**
 
@@ -237,6 +238,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Capture d'écran du canal Telegram de veille technologique
 - Alt : Capture d’écran du canal Telegram Zazu’s Premium Watchguard montrant la section « Sujet BTS : alternatives à VMware » d’une synthèse de veille, avec des actualités sur les solutions de virtualisation open source
+![Capture d’écran du canal Telegram Zazu’s Premium Watchguard montrant la section « Sujet BTS : alternatives à VMware » d’une synthèse de veille](medias/capture_canal_veille.jpg)
 
 ## 8. Mentions légales
 
