@@ -185,11 +185,16 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Pourquoi ce sujet :** Utilisateur au quotidien d'alternatives aux géants du numérique, comme Linux à la place de Windows ou la suite Proton à la place de Google Workspace, je suis attentif à la protection et à la souveraineté de mes données. Beaucoup d'entreprises européennes dépendent d'éditeurs américains, soumis à des lois comme le CLOUD Act (2018). Le rachat de VMware par Broadcom, suivi de fortes hausses de prix, illustre ce risque de dépendance et pousse de nombreuses entreprises à chercher d'autres solutions. En tant que futur technicien systèmes et réseaux, je souhaite comparer et analyser les alternatives à VMware, pour savoir accompagner une entreprise dans sa migration.
 
-**Méthode de veille :** 
+**Méthode de veille :** Ma veille repose sur deux volets. D'abord, un bot Telegram que j'ai conçu publie automatiquement, chaque lundi et vendredi, une synthèse de l'actualité informatique dans un canal public que je partage autour de moi ; une section y est consacrée à mon sujet de veille, et chaque information est archivée dans un journal. Je complète cette veille automatisée en consultant des sites spécialisés comme IT-Connect et les blogs officiels de Proxmox et de Vates, et en suivant des articles d'experts sur LinkedIn.
 
-**Synthèse :** 
+**Synthèse :** Depuis son rachat par Broadcom fin 2023, VMware a abandonné les licences perpétuelles au profit d'abonnements groupés facturés au cœur, ce qui a fait grimper la facture de nombreux clients, de 25 % à plus de 100 % selon les cas. Face à ces hausses, plusieurs alternatives open source reviennent régulièrement dans ma veille : Proxmox VE (basé sur KVM), la plus citée, XCP-ng avec Xen Orchestra, portée par l'éditeur français Vates, et KubeVirt, notamment à travers OpenShift Virtualization, pour les entreprises déjà orientées Kubernetes. Pourtant, beaucoup d'entreprises qui envisagent de partir ne franchissent pas le pas, freinées par la complexité de la migration, la compatibilité des outils de sauvegarde et de stockage, la montée en compétence des équipes et des contrats souvent engagés sur plusieurs années. Broadcom complique aussi la sortie : depuis fin août 2026, le kit VDDK, utilisé par les outils de migration tiers, n'est plus téléchargeable publiquement. À ce stade, la migration semble surtout concerner les PME, et je reste prudent sur les chiffres, car une bonne partie provient d'études financées par des concurrents de VMware. Cette synthèse sera enrichie au fil de ma formation, à mesure que ma veille avancera et que je pourrai tester moi-même ces alternatives.
 
 ### 7.2. Illustrations
+
+**Illustration 1 :**
+
+- Titre : Capture d'écran du canal Telegram de veille technologique
+- Alt : Capture d’écran du canal Telegram Zazu’s Premium Watchguard montrant la section « Sujet BTS : alternatives à VMware » d’une synthèse de veille, avec des actualités sur les solutions de virtualisation open source
 
 ## 8. Mentions légales
 
