@@ -127,7 +127,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Bot Telegram de veille technologique « Zazu’s Premium Watchguard »
 - Statut : Réalisé
-- Présentation : Un système de veille automatisé, piloté par l’agent d’intelligence artificielle (IA) Claude, d’Anthropic, qui envoie chaque lundi et vendredi sur Telegram, dans une canal une synthèse de l’actualité informatique sur cinq thèmes : cybersécurité, réseau, systèmes, cloud et IA, matériel. J’ai conçu son fonctionnement et rédigé les consignes de l’agent, notamment la vérification des dates et des sources de chaque article. J’ai créé le bot Telegram avec BotFather et relié l’agent à ce bot grâce à Zapier. Un journal enregistré sur Google Drive garde la trace des informations déjà envoyées, pour éviter les doublons.
+- Présentation : Un système de veille automatisé, piloté par l’agent d’intelligence artificielle (IA) Claude, d’Anthropic, qui envoie chaque lundi et vendredi sur Telegram, dans un canal; une synthèse de l’actualité informatique sur cinq thèmes : cybersécurité, réseau, systèmes, cloud et IA, matériel. J’ai conçu son fonctionnement et rédigé les consignes de l’agent, notamment la vérification des dates et des sources de chaque article. J’ai créé le bot Telegram avec BotFather et relié l’agent à ce bot grâce à Zapier. Un journal enregistré sur Google Drive garde la trace des informations déjà envoyées, pour éviter les doublons.
 
 **Projet 2 :**
 
