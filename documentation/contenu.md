@@ -50,7 +50,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 - LinkedIn (lien vers mon profil LinkedIn), texte alternatif : Profil LinkedIn de Mathieu Castagné
 - GitHub (lien vers mon profil GitHub), texte alternatif : Profil GitHub de Mathieu Castagné
 
-**Copyright :** © 2027 Mathieu Castagné
+**Copyright :** © 2026 Mathieu Castagné
 
 ## 2. Accueil
 
@@ -127,7 +127,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Bot Telegram de veille technologique « Zazu’s Premium Watchguard »
 - Statut : Réalisé
-- Présentation : Un système de veille automatisé, piloté par l’agent d’intelligence artificielle (IA) Claude, d’Anthropic, qui envoie chaque lundi et vendredi sur Telegram, dans un canal; une synthèse de l’actualité informatique sur cinq thèmes : cybersécurité, réseau, systèmes, cloud et IA, matériel. J’ai conçu son fonctionnement et rédigé les consignes de l’agent, notamment la vérification des dates et des sources de chaque article. J’ai créé le bot Telegram avec BotFather et relié l’agent à ce bot grâce à Zapier. Un journal enregistré sur Google Drive garde la trace des informations déjà envoyées, pour éviter les doublons.
+- Présentation : Un système de veille automatisé, piloté par l’agent d’intelligence artificielle (IA) Claude, d’Anthropic, qui envoie chaque lundi et vendredi sur Telegram, dans un canal, une synthèse de l’actualité informatique sur cinq thèmes : cybersécurité, réseau, systèmes, cloud et IA, matériel. J’ai conçu son fonctionnement et rédigé les consignes de l’agent, notamment la vérification des dates et des sources de chaque article. J’ai créé le bot Telegram avec BotFather et relié l’agent à ce bot grâce à Zapier. Un journal enregistré sur Google Drive garde la trace des informations déjà envoyées, pour éviter les doublons.
 
 **Projet 2 :**
 
@@ -167,11 +167,13 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Encart « Projet à venir » (AP3)
 - Alt : Projet AP3 à venir
+![Projet AP3 à venir](medias/encart_ap3.png)
 
 **Illustration 4 :**
 
 - Titre : Encart « Projet à venir » (AP4)
 - Alt : Projet AP4 à venir
+![Projet AP4 à venir](medias/encart_ap4.png)
 
 ## 5. Projet AP3
 
@@ -225,21 +227,21 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ### 7.1. Textes
 
-**Titre Principal :** Veille technologique
+**Titre principal :** Veille technologique
 
 **Problématique :** Quelles alternatives open source s’offrent aux entreprises pour remplacer VMware dans leurs infrastructures de virtualisation, après son rachat par Broadcom ?
 
-**Pourquoi ce sujet :** Utilisateur au quotidien d'alternatives aux géants du numérique, comme Linux à la place de Windows ou la suite Proton à la place de Google Workspace, je suis attentif à la protection et à la souveraineté de mes données. Beaucoup d'entreprises européennes dépendent d'éditeurs américains, soumis à des lois comme le CLOUD Act (2018). Le rachat de VMware par Broadcom, suivi de fortes hausses de prix, illustre ce risque de dépendance et pousse de nombreuses entreprises à chercher d'autres solutions. En tant que futur technicien systèmes et réseaux, je souhaite comparer et analyser les alternatives à VMware, pour savoir accompagner une entreprise dans sa migration.
+**Pourquoi ce sujet :** Utilisateur au quotidien d’alternatives aux géants du numérique, comme Linux à la place de Windows ou la suite Proton à la place de Google Workspace, je suis attentif à la protection et à la souveraineté de mes données. Beaucoup d’entreprises européennes dépendent d’éditeurs américains, soumis à des lois comme le CLOUD Act (2018). Le rachat de VMware par Broadcom, suivi de fortes hausses de prix, illustre ce risque de dépendance et pousse de nombreuses entreprises à chercher d’autres solutions. En tant que futur technicien systèmes et réseaux, je souhaite comparer et analyser les alternatives à VMware, pour savoir accompagner une entreprise dans sa migration.
 
-**Méthode de veille :** Ma veille repose sur deux volets. D'abord, un bot Telegram que j'ai conçu publie automatiquement, chaque lundi et vendredi, une synthèse de l'actualité informatique dans un canal public que je partage autour de moi ; une section y est consacrée à mon sujet de veille, et chaque information est archivée dans un journal. Je complète cette veille automatisée en consultant des sites spécialisés comme IT-Connect et les blogs officiels de Proxmox et de Vates, et en suivant des articles d'experts sur LinkedIn.
+**Méthode de veille :** Ma veille repose sur deux volets. D’abord, un bot Telegram que j’ai conçu publie automatiquement, chaque lundi et vendredi, une synthèse de l’actualité informatique dans un canal public que je partage autour de moi ; une section y est consacrée à mon sujet de veille, et chaque information est archivée dans un journal. Je complète cette veille automatisée en consultant des sites spécialisés comme IT-Connect et les blogs officiels de Proxmox et de Vates, et en suivant des articles d’experts sur LinkedIn.
 
-**Synthèse :** Depuis son rachat par Broadcom fin 2023, VMware a abandonné les licences perpétuelles au profit d'abonnements groupés facturés au cœur, ce qui a fait grimper la facture de nombreux clients, de 25 % à plus de 100 % selon les cas. Face à ces hausses, plusieurs alternatives open source reviennent régulièrement dans ma veille : Proxmox VE (basé sur KVM), la plus citée, XCP-ng avec Xen Orchestra, portée par l'éditeur français Vates, et KubeVirt, notamment à travers OpenShift Virtualization, pour les entreprises déjà orientées Kubernetes. Pourtant, beaucoup d'entreprises qui envisagent de partir ne franchissent pas le pas, freinées par la complexité de la migration, la compatibilité des outils de sauvegarde et de stockage, la montée en compétence des équipes et des contrats souvent engagés sur plusieurs années. Broadcom complique aussi la sortie : depuis fin août 2026, le kit VDDK, utilisé par les outils de migration tiers, n'est plus téléchargeable publiquement. À ce stade, la migration semble surtout concerner les PME, et je reste prudent sur les chiffres, car une bonne partie provient d'études financées par des concurrents de VMware. Cette synthèse sera enrichie au fil de ma formation, à mesure que ma veille avancera et que je pourrai tester moi-même ces alternatives.
+**Synthèse :** Depuis son rachat par Broadcom fin 2023, VMware a abandonné les licences perpétuelles au profit d’abonnements groupés facturés au cœur, ce qui a fait grimper la facture de nombreux clients, de 25 % à plus de 100 % selon les cas. Face à ces hausses, plusieurs alternatives open source reviennent régulièrement dans ma veille : Proxmox VE (basé sur KVM), la plus citée, XCP-ng avec Xen Orchestra, portée par l’éditeur français Vates, et KubeVirt, notamment à travers OpenShift Virtualization, pour les entreprises déjà orientées Kubernetes. Pourtant, beaucoup d’entreprises qui envisagent de partir ne franchissent pas le pas, freinées par la complexité de la migration, la compatibilité des outils de sauvegarde et de stockage, la montée en compétence des équipes et des contrats souvent engagés sur plusieurs années. Broadcom complique aussi la sortie : depuis fin août 2026, le kit VDDK, utilisé par les outils de migration tiers, n’est plus téléchargeable publiquement. À ce stade, la migration semble surtout concerner les PME, et je reste prudent sur les chiffres, car une bonne partie provient d’études financées par des concurrents de VMware. Cette synthèse sera enrichie au fil de ma formation, à mesure que ma veille avancera et que je pourrai tester moi-même ces alternatives.
 
 ### 7.2. Illustrations
 
 **Illustration 1 :**
 
-- Titre : Capture d'écran du canal Telegram de veille technologique
+- Titre : Capture d’écran du canal Telegram de veille technologique
 - Alt : Capture d’écran du canal Telegram Zazu’s Premium Watchguard montrant la section « Sujet BTS : alternatives à VMware » d’une synthèse de veille
 ![Capture d’écran du canal Telegram Zazu’s Premium Watchguard montrant la section « Sujet BTS : alternatives à VMware » d’une synthèse de veille](medias/capture_canal_veille.jpg)
 
