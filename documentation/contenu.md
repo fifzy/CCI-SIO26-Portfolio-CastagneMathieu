@@ -13,7 +13,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de modification :** 30/10/2026 - M. Castagné
 
-**Version :** 0.4
+**Version :** 0.5
 
 **Sommaire :**
 
