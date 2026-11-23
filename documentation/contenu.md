@@ -218,6 +218,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 - Alt : Projet AP3 à venir
 
 ## 7. Veille technologique
+
 ### 7.1. Textes
 
 **Titre Principal :** Veille technologique
