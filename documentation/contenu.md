@@ -224,7 +224,6 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Problématique :** Quelles alternatives open source s’offrent aux entreprises pour remplacer VMware dans leurs infrastructures de virtualisation, après son rachat par Broadcom ?
 
-
 **Pourquoi ce sujet :** Utilisateur au quotidien d'alternatives aux géants du numérique, comme Linux à la place de Windows ou la suite Proton à la place de Google Workspace, je suis attentif à la protection et à la souveraineté de mes données. Beaucoup d'entreprises européennes dépendent d'éditeurs américains, soumis à des lois comme le CLOUD Act (2018). Le rachat de VMware par Broadcom, suivi de fortes hausses de prix, illustre ce risque de dépendance et pousse de nombreuses entreprises à chercher d'autres solutions. En tant que futur technicien systèmes et réseaux, je souhaite comparer et analyser les alternatives à VMware, pour savoir accompagner une entreprise dans sa migration.
 
 **Méthode de veille :** Ma veille repose sur deux volets. D'abord, un bot Telegram que j'ai conçu publie automatiquement, chaque lundi et vendredi, une synthèse de l'actualité informatique dans un canal public que je partage autour de moi ; une section y est consacrée à mon sujet de veille, et chaque information est archivée dans un journal. Je complète cette veille automatisée en consultant des sites spécialisés comme IT-Connect et les blogs officiels de Proxmox et de Vates, et en suivant des articles d'experts sur LinkedIn.
