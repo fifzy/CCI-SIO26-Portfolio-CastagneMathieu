@@ -95,7 +95,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
   - Négociation du contrat avec l’hôtel partenaire (environ 130 chambres), auprès de ses responsables événementiel et hébergement : tarif des nuitées, prestations incluses et location des salles
   - Gestion des produits dérivés auprès des fabricants : cahier des charges, comparaison de devis selon plusieurs scénarios de quantités, et traitement des réclamations en cas de produits non conformes
   - Organisation de l’espace exposants : appel à candidatures, sélection (12 exposants pour la première édition, 16 pour la deuxième), plan de salle et collecte des documents administratifs
-  - Coprésentation des cérémonies d’ouverture et de clôture devant 173 personnes (première édition), en binôme français-anglais, et préparation du support de présentation en anglais
+  - Coprésentation des cérémonies d’ouverture et de clôture devant 213 personnes (première édition), en binôme français-anglais, et préparation du support de présentation en anglais
 
 **Formations :**
 
@@ -173,7 +173,49 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ## 5. Projet AP3
 
+### 5.1. Textes
+
+**Titre principal :** Projet AP3 (titre définitif à venir)
+
+**Présentation :** présentation du projet (à compléter lors de l’atelier de professionnalisation 3)
+
+**Compétences du référentiel mobilisées :** liste des compétences du BTS SIO mises en œuvre (à compléter lors de l’atelier de professionnalisation 3)
+
+**Documents de présentation :** liens vers les documents présentant la réalisation (à compléter lors de l’atelier de professionnalisation 3)
+
+**Documentations :** liens vers la documentation technique et la documentation utilisateur (à compléter lors de l’atelier de professionnalisation 3)
+
+**Lien de retour :** Retour aux projets (lien vers la page Projets)
+
+### 5.2. Illustrations
+
+**Illustration 1 :**
+
+- Titre : Encart « Projet à venir » (AP3)
+- Alt : Projet AP3 à venir
+
 ## 6. Projet AP4
+
+### 6.1. Textes
+
+**Titre principal :** Projet AP4 (titre définitif à venir)
+
+**Présentation :** présentation du projet (à compléter lors de l’atelier de professionnalisation 4)
+
+**Compétences du référentiel mobilisées :** liste des compétences du BTS SIO mises en œuvre (à compléter lors de l’atelier de professionnalisation 4)
+
+**Documents de présentation :** liens vers les documents présentant la réalisation (à compléter lors de l’atelier de professionnalisation 4)
+
+**Documentations :** liens vers la documentation technique et la documentation utilisateur (à compléter lors de l’atelier de professionnalisation 4)
+
+**Lien de retour :** Retour aux projets (lien vers la page Projets)
+
+### 6.2. Illustrations
+
+**Illustration 1 :**
+
+- Titre : Encart « Projet à venir » (AP3)
+- Alt : Projet AP3 à venir
 
 ## 7. Veille technologique
 ### 7.1. Textes
@@ -198,4 +240,38 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 ## 8. Mentions légales
 
+### 8.1. Textes
+
+**Titre principal :** Mentions légales
+
+**Éditeur du site :** coordonnées du propriétaire du site (texte rédigé dans le cadre du Rendu 3)
+
+**Hébergeur :** coordonnées de l’hébergeur du site (texte rédigé dans le cadre du Rendu 3)
+
+**Propriété intellectuelle :** mentions relatives aux droits sur les textes, le logo et les illustrations (texte rédigé dans le cadre du Rendu 3)
+
+**Données personnelles :** mentions relatives à la collecte et au traitement des données personnelles (texte rédigé dans le cadre du Rendu 3)
+
+### 8.2. Illustrations
+
+Aucune illustration prévue pour cette page.
+
 ## 9. Plan du site
+
+### 9.1. Textes
+
+**Titre principal :** Plan du site
+
+**Liens :**
+
+- Accueil (lien vers la page Accueil)
+- Projets (lien vers la page Projets)
+  - Projet AP3 (lien vers la page Projet AP3)
+  - Projet AP4 (lien vers la page Projet AP4)
+- Parcours (lien vers la page Parcours)
+- Veille technologique (lien vers la page Veille technologique)
+- Mentions légales (lien vers la page Mentions légales)
+
+### 9.2. Illustrations
+
+Aucune illustration prévue pour cette page.
