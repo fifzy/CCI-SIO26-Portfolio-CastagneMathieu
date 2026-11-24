@@ -51,7 +51,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 - GitHub (lien vers mon profil GitHub), texte alternatif : Profil GitHub de Mathieu Castagné
 
 **Copyright :** © 2026 Mathieu Castagné
-
+<>>>>
 ## 2. Accueil
 
 ### 2.1. Textes
@@ -70,6 +70,7 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 - Titre : Logo animé de Mathieu Castagné
 - Alt : Logo de Mathieu Castagné, un tigre-cerf en mouvement
+![Logo de Mathieu Castagné, un tigre-cerf en mouvement](medias/logo_djed.png)
 
 ## 3. Parcours
 
@@ -110,10 +111,13 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 - Titre : Photo de Mathieu Castagné
 - Alt : Mathieu Castagné souriant, en tenue professionnelle
 
+![Mathieu Castagné souriant, en tenue professionnelle](medias/photo_mathieu.jpg)
+
 **Illustration 2 :**
 
 - Titre : Frise chronologique du parcours
 - Alt : Frise chronologique du parcours scolaire, professionnel et associatif de Mathieu Castagné depuis 2018, détaillé dans le texte de la page
+![Frise chronologique du parcours scolaire, professionnel et associatif de Mathieu Castagné depuis 2018, détaillé dans le texte de la page](medias/frise_parcours.png)
 
 ## 4. Projets
 
