@@ -255,13 +255,13 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Titre principal :** Mentions légales
 
-**Éditeur du site :** coordonnées du propriétaire du site (texte rédigé dans le cadre du Rendu 3)
+**Éditeur du site :** coordonnées du propriétaire du site 
 
-**Hébergeur :** coordonnées de l’hébergeur du site (texte rédigé dans le cadre du Rendu 3)
+**Hébergeur :** coordonnées de l’hébergeur du site
 
-**Propriété intellectuelle :** mentions relatives aux droits sur les textes, le logo et les illustrations (texte rédigé dans le cadre du Rendu 3)
+**Propriété intellectuelle :** mentions relatives aux droits sur les textes, le logo et les illustrations 
 
-**Données personnelles :** mentions relatives à la collecte et au traitement des données personnelles (texte rédigé dans le cadre du Rendu 3)
+**Données personnelles :** mentions relatives à la collecte et au traitement des données personnelles
 
 ### 8.2. Illustrations
 
