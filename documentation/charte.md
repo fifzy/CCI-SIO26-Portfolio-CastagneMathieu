@@ -155,22 +155,187 @@ Accessibilité :
 
 ## 4. Maquettage responsive de chaque page
 
+## 4. Maquettage responsive de chaque page
+
+Les maquettes ont été réalisées avec Figma, en deux étapes : un wireframe en niveaux de gris pour fixer la structure de chaque page, puis une maquette finale qui applique la charte. Chaque page est présentée en version ordinateur (1440 px de large) et en version mobile (390 px de large). Les pages Projet AP3 et Projet AP4 partagent la même mise en page.
+
+Le fichier de travail est consultable dans Figma : [CCI-SIO26-Portfolio-CastagneMathieu](https://www.figma.com/design/gxz28leTO9DOgBRwYq32k5/CCI-SIO26-Portfolio-CastagneMathieu).
+
+Passage de l’ordinateur au mobile :
+
+- les grilles de cartes passent de deux colonnes à une seule ;
+- la barre de navigation passe sur deux lignes ;
+- les boutons de la page d’accueil s’empilent et prennent toute la largeur ;
+- les titres réduisent selon les tailles indiquées en partie 3.2.
+
+Les versions mobiles les plus longues sont découpées en colonnes, à lire de gauche à droite.
+
+<div style="page-break-after:always"></div>
+
 ### 4.1. Accueil
+
+En-tête, zone d’accueil sur fond bleu avec le nom, la présentation et deux boutons, logo animé au centre de l’arc-en-ciel, rayures, pied de page.
+
+#### Wireframe
+
+<img src="medias/wireframe_accueil_ordinateur.png" alt="Wireframe de la page Accueil, version ordinateur" style="max-height: 23cm;">
 
 #### Version ordinateur
 
+<img src="medias/maquette_accueil_ordinateur.png" alt="Maquette de la page Accueil, version ordinateur" style="max-height: 23cm;">
+
 #### Version mobile
+
+<img src="medias/maquette_accueil_mobile.png" alt="Maquette de la page Accueil, version mobile" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
 
 ### 4.2. Parcours
 
+Titre, photo dans un cadre en arche et introduction, frise chronologique, cartes « Expériences professionnelles » et « Formations », carte « Engagement associatif ».
+
+#### Wireframe
+
+<img src="medias/wireframe_parcours_ordinateur.png" alt="Wireframe de la page Parcours, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_parcours_ordinateur.png" alt="Maquette de la page Parcours, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_parcours_mobile_colonnes.png" alt="Maquette de la page Parcours, version mobile, découpée en colonnes" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
+
 ### 4.3. Projets
+
+Titre, introduction, puis quatre fiches de dossier, chacune avec son image, son tampon de statut, son titre et sa présentation.
+
+#### Wireframe
+
+<img src="medias/wireframe_projets_ordinateur.png" alt="Wireframe de la page Projets, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_projets_ordinateur.png" alt="Maquette de la page Projets, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_projets_mobile_colonnes.png" alt="Maquette de la page Projets, version mobile, découpée en colonnes" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
 
 ### 4.4. Projets AP3 et AP4
 
+Gabarit commun aux deux projets : lien de retour, titre, encart, quatre fiches d’information et bouton de retour vers la page Projets.
+
+#### Wireframe
+
+<img src="medias/wireframe_projet_ap_ordinateur.png" alt="Wireframe des pages Projet AP3 et AP4, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_projet_ap_ordinateur.png" alt="Maquette des pages Projet AP3 et AP4, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_projet_ap_mobile.png" alt="Maquette des pages Projet AP3 et AP4, version mobile" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
+
 ### 4.5. Veille technologique
+
+Introduction sur fond anthracite avec la problématique et le motif de cible, cartes « Pourquoi ce sujet » et « Méthode de veille », synthèse affichée dans un écran, capture du canal Telegram.
+
+#### Wireframe
+
+<img src="medias/wireframe_veille_ordinateur.png" alt="Wireframe de la page Veille technologique, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_veille_ordinateur.png" alt="Maquette de la page Veille technologique, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_veille_mobile_colonnes.png" alt="Maquette de la page Veille technologique, version mobile, découpée en colonnes" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
 
 ### 4.6. Mentions légales
 
+Titre et carte réunissant les quatre rubriques.
+
+#### Wireframe
+
+<img src="medias/wireframe_mentions_legales_ordinateur.png" alt="Wireframe de la page Mentions légales, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_mentions_legales_ordinateur.png" alt="Maquette de la page Mentions légales, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_mentions_legales_mobile.png" alt="Maquette de la page Mentions légales, version mobile" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
+
 ### 4.7. Plan du site
 
+Titre et arborescence des pages du site.
+
+#### Wireframe
+
+<img src="medias/wireframe_plan_du_site_ordinateur.png" alt="Wireframe de la page Plan du site, version ordinateur" style="max-height: 23cm;">
+
+#### Version ordinateur
+
+<img src="medias/maquette_plan_du_site_ordinateur.png" alt="Maquette de la page Plan du site, version ordinateur" style="max-height: 23cm;">
+
+#### Version mobile
+
+<img src="medias/maquette_plan_du_site_mobile.png" alt="Maquette de la page Plan du site, version mobile" style="max-height: 23cm;">
+
+<div style="page-break-after:always"></div>
+
 ## 5. Logique de navigation dans le site
+
+## 5. Logique de navigation dans le site
+
+Le site compte huit pages, organisées sur trois niveaux : l’accueil, cinq pages principales, puis les pages de détail des projets AP3 et AP4. Chaque page existe en français et en anglais. Les deux schémas ci-dessous ont été réalisés dans le même fichier Figma que les maquettes.
+
+### 5.1. Schéma de navigation
+
+<img src="medias/schema_navigation.png" alt="Schéma de navigation du site : en-tête et pied de page présents sur toutes les pages, arborescence sur trois niveaux, de l’accueil jusqu’aux pages Projet AP3 et Projet AP4" style="max-height: 23cm;">
+
+**En-tête et pied de page communs.** L’en-tête et le pied de page sont identiques sur toutes les pages. Les quatre rubriques principales sont dans la barre de navigation ; le plan du site et les mentions légales sont dans le pied de page. Depuis n’importe quelle page, le visiteur atteint donc une page principale en un clic, et les pages Projet AP3 et Projet AP4 en deux clics.
+
+**Retour à l’accueil.** Le logo et le nom, à gauche de l’en-tête, ramènent à l’accueil, comme sur la plupart des sites.
+
+**Page en cours.** Dans la barre de navigation, le lien de la page affichée est mis en évidence : fond sable et texte anthracite. Pour les lecteurs d’écran, il porte l’attribut `aria-current="page"`. Sur les pages Projet AP3 et Projet AP4, c’est le lien Projets qui reste en évidence, pour rappeler la rubrique.
+
+**Changement de langue.** Le sélecteur FR / EN affiche la même page dans l’autre langue, sans renvoyer à l’accueil. La langue active est sur fond sable.
+
+**Navigation sur mobile.** Sur téléphone, la barre de navigation passe sur deux lignes au lieu de se cacher derrière un menu : avec seulement quatre liens, toutes les rubriques restent visibles dès l’arrivée sur la page.
+
+**Pages de projet.** Les pages Projet AP3 et Projet AP4 proposent un lien « Retour aux projets » en haut et en bas de page. Le visiteur revient ainsi à la liste sans passer par le bouton Précédent du navigateur.
+
+**Liens externes.** Les liens LinkedIn et GitHub du pied de page s’ouvrent dans le même onglet, pour qu’aucune fenêtre ne s’ouvre sans prévenir le visiteur. Il revient au portfolio avec le bouton Précédent de son navigateur.
+
+**Plan du site.** Le plan du site reprend toute l’arborescence. Il dépanne le visiteur qui ne trouve pas une page et aide les moteurs de recherche à parcourir le site.
+
+**Navigation au clavier.** Un lien d’évitement « Aller au contenu » apparaît au premier appui sur la touche Tab : il permet d’aller directement au contenu, sans parcourir tous les liens de l’en-tête. Comme il reste invisible tant qu’il n’est pas sélectionné, il n’apparaît pas sur les maquettes. L’ordre de tabulation suit l’ordre de lecture : logo, barre de navigation, sélecteur de langue, contenu, puis pied de page.
+
+<div style="page-break-after:always"></div>
+
+### 5.2. Parcours utilisateurs
+
+Trois profils de visiteurs ont guidé l’organisation des pages. Pour chacun, le schéma indique les pages consultées, dans l’ordre, et le lien utilisé à chaque étape.
+
+<img src="medias/parcours_utilisateurs.png" alt="Trois parcours utilisateurs : un recruteur qui consulte les projets puis le parcours, un jury du BTS SIO qui consulte le parcours, la veille puis les projets, et un visiteur anglophone sur mobile qui change de langue et utilise le plan du site" style="max-height: 23cm;">
+
+**Parcours 1, recruteur ou tuteur d’entreprise.** Il dispose de peu de temps. Le bouton principal de l’accueil l’amène directement aux projets, la partie la plus concrète du portfolio. Il consulte ensuite mon parcours, puis trouve mon profil LinkedIn dans le pied de page pour me contacter.
+
+**Parcours 2, jury du BTS SIO.** Il suit l’ordre d’un dossier : parcours, veille technologique, puis projets. Chaque rubrique est accessible depuis la barre de navigation : il n’a jamais besoin de repasser par l’accueil.
+
+**Parcours 3, visiteur anglophone sur mobile.** Le sélecteur de langue le garde sur la page en cours. Le plan du site lui permet d’atteindre directement la page qui l’intéresse, et le logo le ramène à l’accueil. Tous ces liens restent visibles sur un écran de téléphone.
