@@ -27,11 +27,11 @@ Ce document présente la charte graphique de mon portfolio, réalisé dans le ca
 
 ## 2. Explication de l’identité visuelle
 
-Le portfolio associe deux influences. Sa structure est brutaliste, comme le béton brut des bâtiments administratifs des années 70 : angles droits, bordures épaisses, ombres pleines et décalées, étiquettes et boutons dans une police à chasse fixe qui rappelle les anciens terminaux. Sa voix vient de la pop de la même époque : couleurs franches posées en aplats, titres à la typographie « groovy », arc-en-ciel et cercles concentriques. À cela s’ajoutent des touches rétrofuturistes inspirées de l’univers administratif de la série Loki : fiches de dossier et tampons pour présenter les projets, écran cathodique pour la veille technologique, arches empruntées à l’architecture de cette époque.
+Le portfolio associe deux influences. Sa structure est brutaliste, comme le béton brut des bâtiments administratifs des années 70 : angles droits, bordures épaisses, ombres pleines et décalées, étiquettes et boutons dans une police à chasse fixe qui rappelle les anciens terminaux. Sa voix vient de la pop de la même époque : couleurs franches posées en aplats, titres à la typographie « groovy », arc-en-ciel en cadres emboîtés et cercles concentriques. À cela s’ajoutent des touches rétrofuturistes inspirées de l’univers administratif de la série Loki : fiches de dossier et tampons pour présenter les projets, écran cathodique pour la veille technologique, arches empruntées à l’architecture de cette époque.
 
 Ce choix répond à deux intentions. D’abord, je voulais un site rigoureux dans sa forme et chaleureux dans sa voix, que l’on reconnaît au premier coup d’œil, loin des portfolios sobres et interchangeables. Ensuite, cet univers de bureau où tout est classé, documenté et horodaté rejoint mon métier : au support informatique, je traite des tickets, je rédige des procédures et je documente mes interventions. La structure nette reflète cette rigueur. La typographie et les couleurs, elles, rappellent un parcours commencé dans l’accueil et la relation client.
 
-L’emblème du site est Djed, un tigre-cerf, personnage original que j’ai créé. Dessiné en aplats avec des contours épais, dans l’esprit des dessins animés des années 70, il s’intègre naturellement à cette identité et donne au portfolio une signature personnelle. Animé au centre de l’arc-en-ciel sur la page d’accueil, il accueille le visiteur, puis l’accompagne sur chaque page, dans l’en-tête.
+L’emblème du site est Djed, un tigre-cerf, personnage original que j’ai créé. Son logo est une silhouette blanche recadrée dans un carré anthracite, d’où ressortent seulement l’œil sable et la truffe. Cette forme simple, en aplats comme dans les dessins animés des années 70, reste lisible à toutes les tailles et s’accorde avec les angles droits du site. Animé au centre d’un arc-en-ciel carré sur la page d’accueil, il accueille le visiteur, puis l’accompagne sur chaque page, dans l’en-tête.
 
 Le style reste au service du contenu : la décoration habille les titres, les séparations et les illustrations, jamais les textes à lire.
 
@@ -103,30 +103,29 @@ Polices de secours, si une police ne se charge pas :
 
 ### 3.3. Logo, icônes et boutons
 
-### 3.3. Logo, icônes et boutons
-
 #### Logo
 
-Le logo représente Djed, un tigre-cerf vu de profil, tourné vers la droite. Il est dessiné en aplats, avec des contours anthracite épais : fourrure blanche, bois avant anthracite, bois arrière et marques de tigre bleus, œil sable.
+Le logo représente Djed, un tigre-cerf vu de profil, tourné vers la droite. Sa silhouette blanche est recadrée dans un carré anthracite à angles droits : les bois sortent par le haut, et les bords droit et bas du carré coupent la tête. Seuls l’œil sable et la truffe anthracite ressortent sur la silhouette. Sans contours ni petits détails, il reste lisible de 16 px à plusieurs centaines de pixels : un seul logo suffit donc pour tous les usages.
 
-![Déclinaisons du logo : logo complet, pastille de l’en-tête, favicon et avatar](medias/logo_declinaisons.png)
+![Déclinaisons du logo : logo, en-tête, favicon et avatar](medias/logo_declinaisons.png)
 
 | Version | Fichier | Usage | Taille |
 | --- | --- | --- | --- |
-| Logo complet | `djed-logo.svg` | Page d’accueil (version animée), pastille de l’en-tête | 48 px minimum |
-| Pastille de l’en-tête | Logo complet dans un cercle sable bordé d’anthracite (4 px) | En-tête de toutes les pages | 64 px sur ordinateur, 48 px sur mobile |
+| Logo | `djed-logo.svg` | Page d’accueil (version animée), en-tête, carte du projet Portfolio | 16 px minimum |
+| En-tête | Logo dans un cadre sable de 3 px | En-tête de toutes les pages | 64 px sur ordinateur, 48 px sur mobile |
 | Favicon | `favicon.svg`, `favicon.ico`, `apple-touch-icon.png` | Onglet du navigateur, raccourci sur mobile | 16, 32 et 180 px |
-| Avatar | `djed-avatar-512.png` | Photo de profil GitHub | 512 px |
+| Avatar | `djed-avatar-512.png` | Photo de profil GitHub, logo centré sur un fond sable | 512 px |
 
 Règles d’utilisation :
 
-- le logo complet se pose toujours sur un fond clair, sable ou blanc. Sur un fond anthracite, il est placé dans la pastille sable, sinon le bois avant et les contours disparaissent ;
-- en dessous de 48 px, on utilise le favicon, conçu pour les petites tailles ;
+- le logo garde toujours son carré anthracite : la silhouette blanche n’est jamais posée seule sur un fond clair, où elle disparaîtrait ;
+- sur un fond anthracite, comme l’en-tête, il est entouré d’un cadre sable de 3 px pour se détacher du fond ;
 - un espace libre d’au moins 10 % de sa largeur est laissé autour du logo ;
-- le logo n’est jamais déformé, recoloré, retourné (Djed regarde toujours vers la droite), ni orné d’une ombre ou d’un dégradé ;
+- le logo n’est jamais déformé, recoloré, retourné (Djed regarde toujours vers la droite), arrondi, ni orné d’une ombre ou d’un dégradé ;
+- sur les sites qui affichent les photos de profil en rond, on utilise l’avatar : le logo y est centré sur un fond sable, pour que les bois ne soient pas coupés ;
 - dans l’en-tête, son texte alternatif est « Logo de Mathieu Castagné, retour à l’accueil ».
 
-Sur la page d’accueil, le logo est animé. Le fichier SVG est intégré directement dans le code HTML, et non appelé par une balise `img`, pour que la feuille de style puisse cibler ses calques : `paupiere`, `pupille`, `bois-avant`, `bois-arriere`… L’animation reste discrète (clignement de la paupière, léger balancement des bois) et se désactive pour les visiteurs qui ont réduit les animations dans leur système (`prefers-reduced-motion`).
+Sur la page d’accueil, le logo est animé, au centre d’un arc-en-ciel carré : quatre cadres emboîtés, anthracite, sable, blanc et bleu, qui reprennent les angles droits du logo. Le fichier SVG est intégré directement dans le code HTML, et non appelé par une balise `img`, pour que la feuille de style puisse cibler ses calques : `bois-avant`, `silhouette`, `paupiere`, `pupille`, `truffe`. L’animation reste discrète (clignement de la paupière, léger balancement du bois) et se désactive pour les visiteurs qui ont réduit les animations dans leur système (`prefers-reduced-motion`).
 
 #### Icônes
 
@@ -155,8 +154,6 @@ Accessibilité :
 
 ## 4. Maquettage responsive de chaque page
 
-## 4. Maquettage responsive de chaque page
-
 Les maquettes ont été réalisées avec Figma, en deux étapes : un wireframe en niveaux de gris pour fixer la structure de chaque page, puis une maquette finale qui applique la charte. Chaque page est présentée en version ordinateur (1440 px de large) et en version mobile (390 px de large). Les pages Projet AP3 et Projet AP4 partagent la même mise en page.
 
 Le fichier de travail est consultable dans Figma : [CCI-SIO26-Portfolio-CastagneMathieu](https://www.figma.com/design/gxz28leTO9DOgBRwYq32k5/CCI-SIO26-Portfolio-CastagneMathieu).
@@ -174,7 +171,7 @@ Les versions mobiles les plus longues sont découpées en colonnes, à lire de g
 
 ### 4.1. Accueil
 
-En-tête, zone d’accueil sur fond bleu avec le nom, la présentation et deux boutons, logo animé au centre de l’arc-en-ciel, rayures, pied de page.
+En-tête, zone d’accueil sur fond bleu avec le nom, la présentation et deux boutons, logo animé au centre de l’arc-en-ciel carré, rayures, pied de page.
 
 #### Wireframe
 
