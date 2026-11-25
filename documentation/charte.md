@@ -39,8 +39,6 @@ Le style reste au service du contenu : la décoration habille les titres, les s�
 
 ### 3.1. Couleurs
 
-### 3.1. Couleurs
-
 La palette compte quatre couleurs, toujours utilisées en aplats, sans dégradé ni transparence.
 
 | Couleur | Hexadécimal | RVB | Rôle | Exemples d’usage |
