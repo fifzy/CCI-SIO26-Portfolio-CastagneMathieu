@@ -19,5 +19,4 @@ Conventions
 
 Le projet suit les guidelines Kiwipedia de l’agence Alsacréations, imposées par le sujet : nommage, HTML, CSS, JavaScript et Git. Elles sont détaillées dans documentation/technique.md.
 
-Auteur
 Mathieu Castagné
