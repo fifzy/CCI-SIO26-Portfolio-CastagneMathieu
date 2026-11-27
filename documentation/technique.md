@@ -11,9 +11,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de création :** 25/11/2026 - M. Castagné
 
-**Date de modification :** 25/11/2026 - M. Castagné
+**Date de modification :** 27/11/2026 - M. Castagné
 
-**Version :** 0.1
+**Version :** 1.0
 
 **Sommaire :**
 

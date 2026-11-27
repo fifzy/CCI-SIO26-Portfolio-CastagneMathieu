@@ -11,9 +11,9 @@ footer: ${title} - ${author} - Page ${pageNo} / ${totalPages}
 
 **Date de création :** 24/11/2026 - M. Castagné
 
-**Date de modification :** 24/11/2026 - M. Castagné
+**Date de modification :** 27/11/2026 - M. Castagné
 
-**Version :** 0.1
+**Version :** 1.0
 
 **Sommaire :**
 
@@ -292,8 +292,6 @@ Titre et arborescence des pages du site.
 <img src="medias/maquette_plan_du_site_mobile.png" alt="Maquette de la page Plan du site, version mobile" style="max-height: 23cm;">
 
 <div style="page-break-after:always"></div>
-
-## 5. Logique de navigation dans le site
 
 ## 5. Logique de navigation dans le site
 
